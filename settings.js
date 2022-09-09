@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['94763407452']
+global.premium = ['94763407452']
+global.ownernomer = '94763407452'
+global.ownername = 'VIHAGA THIKSANA'
+global.botname = 'VT MUSIC BOT'
+global.footer = '©VT MUSIC PRODUCTION.'
+global.ig = 'https://chat.whatsapp.com/KPK9oTg2PwsJVTdaROjOgp'
+global.region = 'srilanka, Colombo Srilanka, halavata'
+global.sc = 'https://sites.google.com/view/vtofficialsites/home'
+global.myweb = 'https://youtube.com/channel/UCiMmvM-OLyee7JDthwK_E0Q'
+global.packname = 'VT Official'
+global.author = 'H.M.VIHAGA THIKSANA'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
